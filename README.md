@@ -37,8 +37,6 @@ If you're not familiar with vue.js 2.0 **start by reading this [guide](https://v
 
 More detailed documentation can be found in [API](https://vuejs.org/v2/api/) section.
  
-Also in order to complete tasks you'll need to get familiar with [keen-ui](https://josephuspaye.github.io/Keen-UI/) vue components.
-
 ## What you should do?
 We encourage  you to:
  - use [ES6 features](http://es6-features.org/#Constants) in your JavaScript code
